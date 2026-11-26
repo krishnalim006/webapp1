@@ -52,4 +52,4 @@ jobs:
           app-name: 'tywa1'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1B5E5BECB5FE41FEB1F38BE1AB48950F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2A6572801D0B45B4A23EE489BD299FD8 }}
